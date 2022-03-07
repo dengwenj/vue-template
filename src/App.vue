@@ -2,7 +2,7 @@
   <div class='app'>
     <img :src="logo" alt="logo" />
     <div class='wrapper'>
-      Welcome to the react app created by the CLI developed by Deng Wenjie
+      Welcome to the vue app created by the CLI developed by Deng Wenjie
     </div>
     <div class='wrapper'>
       If you want to know me this is my github:
